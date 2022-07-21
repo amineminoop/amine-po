@@ -9,7 +9,7 @@ export default function Home() {
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <h1>amine</h1>
+      <h1>aminee</h1>
 
      
 
